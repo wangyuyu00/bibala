@@ -1,6 +1,6 @@
 # my-project
 
-> A Mpvue project
+> 利用Mpvue 开发的区块链活动小程序
 
 ## Build Setup
 
@@ -33,5 +33,8 @@ npm build:my
 # 生成 bundle 分析报告
 npm run build --report
 ```
+
+# 修改日历插件
+为满足日历需求 将src目录下 的mpvue-calendar.vue将mpvue-calendar下面的mpvue-calendar.vue替换
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

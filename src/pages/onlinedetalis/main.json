@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "直播详情",
+    "usingComponents": {
+        "parser": "../../static/Parser/index"
+    }
+}
+  
